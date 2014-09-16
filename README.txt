@@ -11,7 +11,7 @@ https://netbeans.org/downloads/
 
 - Download and install Netbeans
 
-- Download and extract nbMPC repository to C:/nbMCP
+- Download and extract nbMCP repository to C:/nbMCP
 
 - Navigate to C:/nbMCP folder
 
