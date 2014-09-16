@@ -21,4 +21,4 @@ https://netbeans.org/downloads/
 
 - Open Client Project File
 
-- MPC is not ready to edit with Netbeans
+- MPC is now ready to edit with Netbeans
