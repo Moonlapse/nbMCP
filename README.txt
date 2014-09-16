@@ -16,6 +16,7 @@ https://netbeans.org/downloads/
 - Navigate to C:/nbMCP folder
 
 - Run decompile.bat (MAC use decompile sh)
+---> This will take some time <---
 
 - Open Netbeans
 
