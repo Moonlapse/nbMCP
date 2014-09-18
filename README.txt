@@ -5,8 +5,6 @@
 - Netbeans 8.0.1 with Java SE or EE
 https://netbeans.org/downloads/
 
-- Minecraft 1.6.4 installed and run once
-
 === Install ===
 
 - Download and install Netbeans
