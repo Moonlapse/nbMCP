@@ -23,3 +23,9 @@ https://netbeans.org/downloads/
 - Open Client Project File
 
 - MPC is now ready to edit with Netbeans
+
+
+=== To do ===
+
+- OSX/Linux Support
+- Add 'Forge' to pack
